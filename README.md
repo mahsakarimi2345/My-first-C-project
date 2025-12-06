@@ -1,1 +1,1 @@
-#My_first_C_project
+My-first-C-project
